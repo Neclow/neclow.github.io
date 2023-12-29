@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone!
-
-My name is Neil, I am a PhD student at the [Section of Epidemiology](https://publichealth.ku.dk/about-the-department/section-epidemiology/) of the University of Copenhagen.
-
-I am generally interested in computational biology (neuroscience, epidemiology) and deep learning-based representations of speech and audio. Throughout my Master studies at EPFL, I had the opportunity to work on several projects involving machine learning or data science with interdisciplinary applications in life sciences and engineering. I am also curious about ways to leverage insights from neuroscience to build robust and resilient artificial neural networks.
-
-Education
+About Me
 ------
-* 2022-: PhD in Public Health and Epidemiology (University of Copenhagen)
-* 2019-2022: MSc in Life Sciences Engineering, Minor: Computational neurosciences (EPFL)
-* 2016-2019: BSc in Life Sciences Engineering (EPFL)
+
+Welcome!
+
+I am a PhD Fellow at the University of Copenhagen, supervised by Samir Bhatt at the [Computational and Mathematical Public Health group](https://publichealth.ku.dk/about-the-department/section-epidemiology/research-epi/#collapse-1686303579196). I obtained my MSc in Life Sciences Engineering at EPFL, with a minor in computational neuroscience.
+
+I am generally inerested in computational biology and applied machine learning for biological problems (e.g., neuroscience, genetics, epidemiology). I also had the opportunity to work on deep learning-based representations of speech and audio at Logitech.
+
+Keywords: machine learning, computational biology, speech processing
 
 For more info
 ------
