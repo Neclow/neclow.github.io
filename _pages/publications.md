@@ -11,9 +11,9 @@ author_profile: true
 Publications
 ======
 ## 2023
-<a href="https://doi.org/10.1093/sysbio/syad075" target="_blank">Leaping through tree space: continuous phylogenetic inference for rooted and unrooted trees</a>\
-Khurana, M. P., \textsb{Scheidwasser-Clow, N.}, Penn, M. J.,  Bhatt S., and Duchêne, D. A.\
-_Systematic Biology_\
+<a href="https://doi.org/10.1093/sysbio/syad075" target="_blank">The limits of the constant-rate birth-death prior for phylogenetic tree topology inference</a>\
+Khurana, M. P., **Scheidwasser-Clow, N.**, Penn, M. J.,  Bhatt S., and Duchêne, D. A.\
+_Systematic Biology_
 
 <a href="https://doi.org/10.1093/gbe/evad213" target="_blank">Leaping through tree space: continuous phylogenetic inference for rooted and unrooted trees</a>\
 **Scheidwasser-Clow, N.**^, Penn, M. J.^,  Penn, J., Donnelly, C. A., Duchêne, D. A., and Bhatt, S.\
