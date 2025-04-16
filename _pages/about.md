@@ -10,14 +10,15 @@ redirect_from:
 About Me
 ------
 
-Welcome!
+Hello there!
 
-I am a PhD Fellow at the University of Copenhagen, supervised by Samir Bhatt at the [Computational and Mathematical Public Health group](https://publichealth.ku.dk/about-the-department/section-epidemiology/research-epi/#collapse-1686303579196). I obtained my MSc in Life Sciences Engineering at EPFL, with a minor in computational neuroscience.
+I am a PhD Fellow at the University of Copenhagen, supervised by Samir Bhatt and David Duchêne at the [Computational and Mathematical Public Health group](https://publichealth.ku.dk/about-the-department/section-epidemiology/research-epi/#collapse-1686303579196).
 
-I am generally interested in computational biology and applied machine learning for biological problems (e.g., neuroscience, genetics, epidemiology). I also had the opportunity to work on deep learning-based representations of speech and audio at Logitech.
+I am generally interested in speech and audio processing, computational biology, and applied machine learning for biological problems (e.g., neuroscience, genetics, epidemiology).
 
-Keywords: machine learning, computational biology, speech processing
+I have created and maintained several open-source projects, including [SERAB](https://github.com/Neclow/SERAB) and [Phylo2Vec](https://github.com/sbhattlab/phylo2vec).
 
 For more info
 ------
-For more information, please find my CV [here]({% link files/NeilScheidwasserCVv2.pdf %}) and do not hesitate to contact me!
+
+For more information, please find my CV [here]({% link files/NeilScheidwasserCVv3.1.pdf %}) and do not hesitate to contact me!
