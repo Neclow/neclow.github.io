@@ -1,8 +1,7 @@
 author: Neil Scheidwasser
 title: Neil Scheidwasser
 url: "https://neclow.github.io"
-baseurl: "/about"
-description: "About"
+baseurl: "/"
 
 markdown: kramdown
 
@@ -18,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/about/"
+   link: "/"
  - name: "Resume"
    link: "__cv.pdf"
 
