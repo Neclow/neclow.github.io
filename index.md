@@ -4,7 +4,7 @@ layout: default
 
 # Neil Scheidwasser
 
-<img class="profile-picture" src="__photo.png">
+<img class="profile-picture" src="photo.jpg">
 
 I'm a PhD fellow at the Section of Health Data Science and AI, Department of Public Health at the Universitty of Copenhagen. I am also affiliated with Statistics Denmark and the Department of Infectious Disease at Imperial College London.
 
@@ -143,7 +143,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ## Resume
 
-[Download CV (PDF)](__cv.pdf)
+[Download CV (PDF)](cv.pdf)
 
 ## Contact
 
