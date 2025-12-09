@@ -144,3 +144,10 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 ## Resume
 
 [Download CV (PDF)](__cv.pdf)
+
+## Contact
+
+* Email: neil.clow at sund.ku.dk
+* GitHub: [Neclow](https://github.com/Neclow)
+* [LinkedIn](https://www.linkedin.com/in/neil-scheidwasser-6b20a8130/)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=PQ95Jd8AAAAJ)
