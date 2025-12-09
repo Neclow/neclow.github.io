@@ -14,10 +14,10 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ## Selected Projects (see all publications and Google Scholar)
 
-`phylo2vec`: a library for manipulating phylogenetic trees using an efficient vector representation
-`NEWS-Light`: a simplified physiological feature set to monitor acutely ill patients in emergency healthcare settings.
-`dlc4ecoli`: using deep learning-based track technologies to monitor infection in broiler chickens.
-`phylaudio`: examining language evolution through the lens of large speech models.
+* `phylo2vec`: a library for manipulating phylogenetic trees using an efficient vector representation
+* `NEWS-Light`: a simplified physiological feature set to monitor acutely ill patients in emergency healthcare settings.
+* `dlc4ecoli`: using deep learning-based track technologies to monitor infection in broiler chickens.
+* `phylaudio`: examining language evolution through the lens of large speech models.
 
 ## Publications
 
