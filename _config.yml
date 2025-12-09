@@ -1,15 +1,17 @@
-title: Researcher
+author: Neil Scheidwasser
+title: Neil Scheidwasser
 url: "https://neclow.github.io"
 baseurl: "/about"
+description: "About"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./favicon_ku.ico"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/Neclow"
-footer_text: "Link to GitHub account"
+footer_text: "GitHub"
 
 sass:
     style: compressed
