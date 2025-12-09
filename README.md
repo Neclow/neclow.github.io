@@ -1,4 +1,8 @@
-# Researcher
+# neclow.github.io
+
+Website adapted from this [template](https://github.com/ankitsultana/researcher) ([demo](http://ankitsultana.com/researcher)).
+
+<!-- # Researcher
 
 ### [Demo Website](http://ankitsultana.com/researcher)
 
@@ -57,4 +61,4 @@ value
 
 ### License
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE) -->
