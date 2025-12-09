@@ -5,7 +5,6 @@ baseurl: "/about"
 description: "About"
 
 markdown: kramdown
-ins_logo: "./favicon_ku.ico"
 
 tracking_id: #
 
