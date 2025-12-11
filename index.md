@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Neil Scheidwasser
+# About
 
 <img class="profile-picture" src="photo.jpg">
 
@@ -12,7 +12,7 @@ My work lies at the intersection of data science and public health. My research 
 
 Before coming to Copenhagen, I was an engineering intern at Logitech at the AI department and I got my MSc at EPFL (Computational Neurociences).
 
-## Selected Projects (see all publications and Google Scholar)
+## Selected Projects (see all publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PQ95Jd8AAAAJ))
 
 * [phylo2vec](https://github.com/sbhattlab/phylo2vec): a library for manipulating phylogenetic trees using an efficient vector representation
 * [NEWS-Light](https://github.com/MLGlobalHealth/Early_Warning_Scores): a simplified physiological feature set to monitor acutely ill patients in emergency healthcare settings.
