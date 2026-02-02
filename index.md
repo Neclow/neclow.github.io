@@ -14,7 +14,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ## Selected Projects (see all publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PQ95Jd8AAAAJ))
 
-* [phylo2vec](https://github.com/sbhattlab/phylo2vec): a library for manipulating phylogenetic trees using an efficient vector representation
+* [phylo2vec](https://github.com/sbhattlab/phylo2vec): a library for manipulating phylogenetic trees using an efficient vector representation.
 * [NEWS-Light](https://github.com/MLGlobalHealth/Early_Warning_Scores): a simplified physiological feature set to monitor acutely ill patients in emergency healthcare settings.
 * [dlc4ecoli](https://github.com/Neclow/dlc4ecoli): using deep learning-based track technologies to monitor *E. coli* infection in broiler chickens.
 * [phylaudio](https://github.com/Neclow/phylaudio): examining language evolution through the lens of large speech models.
@@ -22,6 +22,14 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 ## Publications
 
 \* indicates co-first author.
+
+### 2026
+
+1. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
+
+    Mark Khurana, Mathilde Marie Brünnich Sloth, **Neil Scheidwasser**, Jacob Curran-Sebastian, Christian Morgenstern, Nicolas Banholzer, David Thein, Laust H. Mortensen, Morten Rasmussen, Pikka Jokelainen, Frederik Trier Møller, Marc Stegger, Tyra G. Krause, Ewan Cameron, David A. Duchêne, Alexandros Katsiferis, Samir Bhatt
+
+    *Lancet Regional Health - Europe*
 
 ### 2025
 
@@ -51,25 +59,25 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2024
 
-5. High-resolution epidemiological landscape from ~290,000 SARS-CoV-2 genomes from Denmark
+1. High-resolution epidemiological landscape from ~290,000 SARS-CoV-2 genomes from Denmark
 
     Mark P. Khurana\*, Jacob Curran-Sebastian\*, **Neil Scheidwasser\***, Christian Morgenstern, Morten Rasmussen, Jannik Fonager, Marc Stegger, Man-Hung Eric Tang, Jonas L. Juul, Leandro Andrés Escobar-Herrera, Frederik Trier Møller, The Danish COVID-19 Genome Consortium (DCGC), Mads Albertsen, Moritz U. G. Kraemer, Louis du Plessis, Pikka Jokelainen, Sune Lehmann, Tyra G. Krause, Henrik Ullum, David A. Duchêne, Laust H. Mortensen & Samir Bhatt
 
     *Nature Communications*
 
-6. Phylo2Vec: a vector representation for binary trees
+2. Phylo2Vec: a vector representation for binary trees
 
     Matthew J Penn\*, **Neil Scheidwasser\***, Mark P Khurana, David A Duchêne, Christl A Donnelly, Samir Bhatt
 
     *Systematic Biology*
 
-7. Bayesian inference of phylogenetic distances: revisiting the eigenvalue approach
+3. Bayesian inference of phylogenetic distances: revisiting the eigenvalue approach
 
     Matthew J. Penn, **Neil Scheidwasser**, Christl A. Donnelly, David A. Duchêne & Samir Bhatt
 
     *Bulletin of Mathematical Biology*
 
-8. The limits of the constant-rate birth–death prior for phylogenetic tree topology inference
+4. The limits of the constant-rate birth–death prior for phylogenetic tree topology inference
 
     Mark P Khurana, **Neil Scheidwasser**, Matthew J Penn, Samir Bhatt, David A Duchêne
 
@@ -77,25 +85,25 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2023
 
-9. Leaping through Tree Space: Continuous Phylogenetic Inference for Rooted and Unrooted Trees
+1. Leaping through Tree Space: Continuous Phylogenetic Inference for Rooted and Unrooted Trees
 
     Matthew J Penn\*, **Neil Scheidwasser\***, Joseph Penn, Christl A Donnelly, David A Duchêne, Samir Bhatt
 
     *Genome Biology and Evolution*
 
-10. Speaker Embeddings as Individuality Proxy for Voice Stress Detection
+2. Speaker Embeddings as Individuality Proxy for Voice Stress Detection
 
     Zihan Wu, **Neil Scheidwasser**, Karl El Hajal, Milos Cernak
 
     *Interspeech*
 
-11. Efficient speech quality assessment using self-supervised framewise embeddings
+3. Efficient speech quality assessment using self-supervised framewise embeddings
 
     Karl El Hajal, Zihan Wu, **Neil Scheidwasser**, Gasser Elbanna, Milos Cernak
 
     *ICASSP*
 
-12. Byol-s: Learning self-supervised speech representations by bootstrapping
+4. Byol-s: Learning self-supervised speech representations by bootstrapping
 
     Gasser Elbanna, **Neil Scheidwasser**, Mikolaj Kegler, Pierre Beckmann, Karl El Hajal, Milos Cernak
 
@@ -103,13 +111,13 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2022
 
-13. SERAB: A multi-lingual benchmark for speech emotion recognition
+1. SERAB: A multi-lingual benchmark for speech emotion recognition
 
     **Neil Scheidwasser**, Mikolaj Kegler, Pierre Beckmann, Milos Cernak
 
     *ICASSP*
 
-14. Hybrid handcrafted and learnable audio representation for analysis of speech under cognitive and physical load
+2. Hybrid handcrafted and learnable audio representation for analysis of speech under cognitive and physical load
 
     Gasser Elbanna, Alice Biryukov, **Neil Scheidwasser**, Lara Orlandic, Pablo Mainar, Mikolaj Kegler, Pierre Beckmann, Milos Cernak
 
@@ -117,7 +125,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2021
 
-15. Commentary: The Risky Closed Economy: A Holistic, Longitudinal Approach to Studying Fear and Anxiety in Rodents
+1. Commentary: The Risky Closed Economy: A Holistic, Longitudinal Approach to Studying Fear and Anxiety in Rodents
 
     **Neil Scheidwasser**, Melissa Faggella, Elizaveta Kozlova, Carmen Sandi
 
@@ -140,6 +148,10 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 4. Generalised Bayesian distance-based phylogenetics for the genomics era
 
     Matthew J. Penn, **Neil Scheidwasser**, Mark P. Khurana, Christl A. Donnelly, David A. Duchêne, Samir Bhatt
+
+5. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
+
+    Jacob Liam Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark Poulsen Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik Trier Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra Grove Krause, Laust Hvas Mortensen, David Duchêne, Neil M Ferguson, Samir Bhatt
 
 ## Resume
 
