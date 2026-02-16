@@ -153,6 +153,12 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
     Jacob Liam Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark Poulsen Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik Trier Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra Grove Krause, Laust Hvas Mortensen, David Duchêne, Neil M Ferguson, Samir Bhatt
 
+6. Global Approaches to Infectious Disease Surveillance and Modelling
+
+    Mark P. Khurana, Joseph L.-H. Tsui, Bernardo Gutierrez, Ayush Chopra, **Neil Scheidwasser**, Harrison Zhu, Serina Y. Chang, David A. Duchêne, Cathal Mills, Rhys Inward, Benjamin Reddy, John Brittain, Abhishek Dasgupta, James Sheldon, George Githinji, John S. Brownstein, Mélodie Monod, Luca Ferretti, Sivan Bershan, Simon Tietze, Leo Ferres, Silvia Argimón, Timothy J. Dallman, Etien Koua, Oliver Ratmann, Simon Cauchemez, Lauren A. Meyers, Lili Su, Alessandro Vespignani, Paul Pronyk, Áine O'Toole, Andrew Rambaut, Nicholas J. Loman, Edward C. Holmes, Seth Flaxman, Nicola Mulder, Oliver W. Morgan, Houriiyah Tegally, Manuel Gomez-Rodriguez, Nigel Shadbolt, Christian Happi, Meera Chand, Sofonias K. Tessema, Placide Mbala-Kingebeni, Marc A. Suchard, Oliver G. Pybus, Samuel V. Scarpino, Samir Bhatt, Moritz U.G. Kraemer
+
+    Accepted at *Nature Methods*
+
 ## Resume
 
 [Download CV (PDF)](cv.pdf)
