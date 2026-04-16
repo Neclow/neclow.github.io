@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-I'm a PhD fellow at the [Section of Health Data Science and AI](https://publichealth.ku.dk/about-the-department/section-for-health-data-science-and-ai/) at the University of Copenhagen. I am also affiliated with [Statistics Denmark](https://www.dst.dk/da/) and the [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease/) at Imperial College London.
+I am a postdoctoral researcher at the [Section of Health Data Science and AI](https://publichealth.ku.dk/about-the-department/section-for-health-data-science-and-ai/) at the University of Copenhagen. I am also affiliated with [Statistics Denmark](https://www.dst.dk/da/) and the [Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease/) at Imperial College London.
 
 My work lies at the intersection of data science and public health. My research interests involve tackling (hard) biological/healthcare problems with machine learning as well as developing robust, reproducible, and open software.
 
