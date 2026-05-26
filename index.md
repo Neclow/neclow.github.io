@@ -25,9 +25,15 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2026
 
-1. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
+1. Global approaches to infectious disease surveillance and modeling
 
-    Mark Khurana, Mathilde Marie Brünnich Sloth, **Neil Scheidwasser**, Jacob Curran-Sebastian, Christian Morgenstern, Nicolas Banholzer, David Thein, Laust H. Mortensen, Morten Rasmussen, Pikka Jokelainen, Frederik Trier Møller, Marc Stegger, Tyra G. Krause, Ewan Cameron, David A. Duchêne, Alexandros Katsiferis, Samir Bhatt
+    Mark P. Khurana, Joseph L.-H. Tsui, Bernardo Gutierrez, Ayush Chopra, **Neil Scheidwasser**, Harrison B. H. Zhu, B., ..., & Moritz U. G. Kraemer
+
+    *Nature Medicine*
+
+3. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
+
+    Mark P. Khurana, Mathilde Marie Brünnich Sloth, **Neil Scheidwasser**, Jacob Curran-Sebastian, Christian Morgenstern, Nicolas Banholzer, David Thein, Laust H. Mortensen, Morten Rasmussen, Pikka Jokelainen, Frederik T. Møller, Marc Stegger, Tyra G. Krause, Ewan Cameron, David A. Duchêne, Alexandros Katsiferis, Samir Bhatt
 
     *Lancet Regional Health - Europe*
 
@@ -35,19 +41,19 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 1. Deep learning from videography as a tool for measuring E. coli infection in poultry
 
-    **Neil Scheidwasser\***, Louise Ladefoged Poulsen\*, Prince Ravi Leow, Mark P. Khurana, Maider Iglesias-Carrasco, Daniel Joseph Laydon, Christl Ann Donnelly, Anders Miki Bojesen, Samir Bhatt, David A. Duchêne
+    **Neil Scheidwasser\***, Louise L. Poulsen\*, Prince Ravi Leow, Mark P. Khurana, Maider Iglesias-Carrasco, Daniel J. Laydon, Christl A. Donnelly, Anders M. Bojesen, Samir Bhatt, David A. Duchêne
 
     *Royal Society Open Science*
 
 2. phylo2vec: a library for vector-based phylogenetic tree manipulation
 
-    **Neil Scheidwasser\***, Ayush Nag\*, Matthew J. Penn, Anthony Jakob, Frederik Mølkjær Andersen, Mark Poulsen Khurana, Landung Setiawan, David A. Duchêne, Samir Bhatt
+    **Neil Scheidwasser\***, Ayush Nag\*, Matthew J. Penn, Anthony Jakob, Frederik M. Andersen, Mark P. Khurana, Landung Setiawan, David A. Duchêne, Samir Bhatt
 
     *Journal of Open Science Software*
 
 3. Exploring the potential and limitations of deep learning and explainable AI for longitudinal life course analysis
 
-    Helen Coupland, **Neil Scheidwasser**, Alexandros Katsiferis, Megan Davies, Seth Flaxman, Naja Hulvej Rod, Swapnil Mishra, Samir Bhatt & H. Juliette T. Unwin
+    Helen Coupland, **Neil Scheidwasser**, Alexandros Katsiferis, Megan Davies, Seth Flaxman, Naja H. Rod, Swapnil Mishra, Samir Bhatt & H. Juliette T. Unwin
 
     *BMC Public Health*
 
@@ -61,13 +67,13 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 1. High-resolution epidemiological landscape from ~290,000 SARS-CoV-2 genomes from Denmark
 
-    Mark P. Khurana\*, Jacob Curran-Sebastian\*, **Neil Scheidwasser\***, Christian Morgenstern, Morten Rasmussen, Jannik Fonager, Marc Stegger, Man-Hung Eric Tang, Jonas L. Juul, Leandro Andrés Escobar-Herrera, Frederik Trier Møller, The Danish COVID-19 Genome Consortium (DCGC), Mads Albertsen, Moritz U. G. Kraemer, Louis du Plessis, Pikka Jokelainen, Sune Lehmann, Tyra G. Krause, Henrik Ullum, David A. Duchêne, Laust H. Mortensen & Samir Bhatt
+    Mark P. Khurana\*, Jacob Curran-Sebastian\*, **Neil Scheidwasser\***, Christian Morgenstern, Morten Rasmussen, Jannik Fonager, Marc Stegger, Man-Hung Eric Tang, Jonas L. Juul, Leandro Andrés Escobar-Herrera, Frederik T. Møller, The Danish COVID-19 Genome Consortium (DCGC), Mads Albertsen, Moritz U. G. Kraemer, Louis du Plessis, Pikka Jokelainen, Sune Lehmann, Tyra G. Krause, Henrik Ullum, David A. Duchêne, Laust H. Mortensen & Samir Bhatt
 
     *Nature Communications*
 
 2. Phylo2Vec: a vector representation for binary trees
 
-    Matthew J Penn\*, **Neil Scheidwasser\***, Mark P Khurana, David A Duchêne, Christl A Donnelly, Samir Bhatt
+    Matthew J. Penn\*, **Neil Scheidwasser\***, Mark P. Khurana, David A. Duchêne, Christl A. Donnelly, Samir Bhatt
 
     *Systematic Biology*
 
@@ -79,7 +85,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 4. The limits of the constant-rate birth–death prior for phylogenetic tree topology inference
 
-    Mark P Khurana, **Neil Scheidwasser**, Matthew J Penn, Samir Bhatt, David A Duchêne
+    Mark P. Khurana, **Neil Scheidwasser**, Matthew J. Penn, Samir Bhatt, David A Duchêne
 
     *Systematic Biology*
 
@@ -87,7 +93,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 1. Leaping through Tree Space: Continuous Phylogenetic Inference for Rooted and Unrooted Trees
 
-    Matthew J Penn\*, **Neil Scheidwasser\***, Joseph Penn, Christl A Donnelly, David A Duchêne, Samir Bhatt
+    Matthew J. Penn\*, **Neil Scheidwasser\***, Joseph Penn, Christl A. Donnelly, David A. Duchêne, Samir Bhatt
 
     *Genome Biology and Evolution*
 
@@ -135,11 +141,11 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 1. Complex models, marginal benefits--a multi-centre development and validation study of early warning scores across 2·16 million patient admissions addressing intercurrent medical interventions
 
-    Alexandros Katsiferis, **Neil Scheidwasser**, Tri-Long Nguyen, Theis Lange, Mark P Khurana, Pernille B Nielsen, Kasper Karmark Iversen, Christian S Meyhoff, Eske Kvanner Aasvang, Jesper Mølgaard, Adrian G Zucco, Tibor V Varga, Samir Bhatt
+    Alexandros Katsiferis, **Neil Scheidwasser**, Tri-Long Nguyen, Theis Lange, Mark P. Khurana, Pernille B. Nielsen, Kasper K. Iversen, Christian S. Meyhoff, Eske K. Aasvang, Jesper Mølgaard, Adrian G. Zucco, Tibor V. Varga, Samir Bhatt
 
 2. Estimating the worst-case scenario for malaria parasite rate in sub-Saharan Africa
 
-    Kaustubh Chakradeo, Alexandros Katsiferis, **Neil Scheidwasser**, Iwona Hawryluk, Katherine E Battle, Swapnil Mishra, David L Smith, Seth Flaxman, David Duchene, Samir Bhatt
+    Kaustubh Chakradeo, Alexandros Katsiferis, **Neil Scheidwasser**, Iwona Hawryluk, Katherine E. Battle, Swapnil Mishra, David L. Smith, Seth Flaxman, David A. Duchêne, Samir Bhatt
 
 3. Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections
 
@@ -151,13 +157,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 5. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
 
-    Jacob Liam Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark Poulsen Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik Trier Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra Grove Krause, Laust Hvas Mortensen, David Duchêne, Neil M Ferguson, Samir Bhatt
-
-6. Global Approaches to Infectious Disease Surveillance and Modelling
-
-    Mark P. Khurana, Joseph L.-H. Tsui, Bernardo Gutierrez, Ayush Chopra, **Neil Scheidwasser**, Harrison Zhu, Serina Y. Chang, David A. Duchêne, Cathal Mills, Rhys Inward, Benjamin Reddy, John Brittain, Abhishek Dasgupta, James Sheldon, George Githinji, John S. Brownstein, Mélodie Monod, Luca Ferretti, Sivan Bershan, Simon Tietze, Leo Ferres, Silvia Argimón, Timothy J. Dallman, Etien Koua, Oliver Ratmann, Simon Cauchemez, Lauren A. Meyers, Lili Su, Alessandro Vespignani, Paul Pronyk, Áine O'Toole, Andrew Rambaut, Nicholas J. Loman, Edward C. Holmes, Seth Flaxman, Nicola Mulder, Oliver W. Morgan, Houriiyah Tegally, Manuel Gomez-Rodriguez, Nigel Shadbolt, Christian Happi, Meera Chand, Sofonias K. Tessema, Placide Mbala-Kingebeni, Marc A. Suchard, Oliver G. Pybus, Samuel V. Scarpino, Samir Bhatt, Moritz U.G. Kraemer
-
-    Accepted at *Nature Methods*
+    Jacob Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark P. Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik T. Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra G. Krause, Laust H. Mortensen, David A. Duchêne, Neil M. Ferguson, Samir Bhatt
 
 ## Resume
 
