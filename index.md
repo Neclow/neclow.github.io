@@ -25,13 +25,31 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2026
 
-1. Global approaches to infectious disease surveillance and modeling
+1. Complex models, marginal benefits--a multi-centre development and validation study of early warning scores across 2·16 million patient admissions addressing intercurrent medical interventions
+
+    Alexandros Katsiferis, **Neil Scheidwasser**, Tri-Long Nguyen, Theis Lange, Mark P. Khurana, Pernille B. Nielsen, Kasper K. Iversen, Christian S. Meyhoff, Eske K. Aasvang, Jesper Mølgaard, Adrian G. Zucco, Tibor V. Varga, Samir Bhatt
+
+    *Accepted at Lancet Digital Health*
+
+2. Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections
+
+    Mark P. Khurana, Alexandros Katsiferis, **Neil Scheidwasser**, Mathilde Marie Brünnich Sloth, Jacob Curran-Sebastian, Christian Morgenstern, Man-Hung Eric Tang, Jannik Fonager, Morten Rasmussen, Marc Stegger, Charles Whittaker, The Danish COVID-19 Genome Consortium (DCGC), Sune Lehmann, Laust H. Mortensen, Pikka Jokelainen, Moritz U G Kraemer, Neil M Ferguson, Mahan Ghafari, Tyra G. Krause, David A. Duchêne, Samir Bhatt
+
+    *Nature Communications*
+
+3. Global approaches to infectious disease surveillance and modeling
 
     Mark P. Khurana, Joseph L.-H. Tsui, Bernardo Gutierrez, Ayush Chopra, **Neil Scheidwasser**, Harrison B. H. Zhu, B., ..., & Moritz U. G. Kraemer
 
     *Nature Medicine*
 
-3. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
+4. PlayClass: Automated Play Behaviour Classification in Poultry
+
+    Prince Ravi Leow\*, **Neil Scheidwasser\***, Rebecca Oscarsson, Per Jensen, Samir Bhatt, David Alejandro Duchêne
+
+    *CVPR Workshop CV4Animals*
+
+5. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
 
     Mark P. Khurana, Mathilde Marie Brünnich Sloth, **Neil Scheidwasser**, Jacob Curran-Sebastian, Christian Morgenstern, Nicolas Banholzer, David Thein, Laust H. Mortensen, Morten Rasmussen, Pikka Jokelainen, Frederik T. Møller, Marc Stegger, Tyra G. Krause, Ewan Cameron, David A. Duchêne, Alexandros Katsiferis, Samir Bhatt
 
@@ -139,23 +157,19 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ## Preprints
 
-1. Complex models, marginal benefits--a multi-centre development and validation study of early warning scores across 2·16 million patient admissions addressing intercurrent medical interventions
+1. Changed frequency of enterovirus hospitalisation after change of polio vaccination scheme: A nationwide cohort study from Denmark
 
-    Alexandros Katsiferis, **Neil Scheidwasser**, Tri-Long Nguyen, Theis Lange, Mark P. Khurana, Pernille B. Nielsen, Kasper K. Iversen, Christian S. Meyhoff, Eske K. Aasvang, Jesper Mølgaard, Adrian G. Zucco, Tibor V. Varga, Samir Bhatt
+    Caroline Klint Johannesen, **Neil Scheidwasser**, Theis Lange, Tyra G. Krause, Thea K. Fischer
 
 2. Estimating the worst-case scenario for malaria parasite rate in sub-Saharan Africa
 
     Kaustubh Chakradeo, Alexandros Katsiferis, **Neil Scheidwasser**, Iwona Hawryluk, Katherine E. Battle, Swapnil Mishra, David L. Smith, Seth Flaxman, David A. Duchêne, Samir Bhatt
 
-3. Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections
-
-    Mark P. Khurana, Alexandros Katsiferis, **Neil Scheidwasser**, Mathilde Marie Brünnich Sloth, Jacob Curran-Sebastian, Christian Morgenstern, Man-Hung Eric Tang, Jannik Fonager, Morten Rasmussen, Marc Stegger, Charles Whittaker, The Danish COVID-19 Genome Consortium (DCGC), Sune Lehmann, Laust H. Mortensen, Pikka Jokelainen, Moritz U G Kraemer, Neil M Ferguson, Mahan Ghafari, Tyra G. Krause, David A. Duchêne, Samir Bhatt
-
-4. Generalised Bayesian distance-based phylogenetics for the genomics era
+3. Generalised Bayesian distance-based phylogenetics for the genomics era
 
     Matthew J. Penn, **Neil Scheidwasser**, Mark P. Khurana, Christl A. Donnelly, David A. Duchêne, Samir Bhatt
 
-5. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
+4. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
 
     Jacob Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark P. Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik T. Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra G. Krause, Laust H. Mortensen, David A. Duchêne, Neil M. Ferguson, Samir Bhatt
 
