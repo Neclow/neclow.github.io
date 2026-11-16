@@ -25,29 +25,29 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
 ### 2026
 
-1. Changed frequency of enterovirus hospitalisations after change of polio vaccination scheme: a nation-wide cohort study from Denmark
+1. Development and validation of early warning scores predicting 24 h mortality addressing intercurrent medical interventions in Denmark: a multicentre retrospective cohort study of 2·08 million hospital encounters
+
+    Alexandros Katsiferis, **Neil Scheidwasser**, Tri-Long Nguyen, Theis Lange, Mark P. Khurana, Pernille B. Nielsen, Kasper K. Iversen, Christian S. Meyhoff, Eske K. Aasvang, Jesper Mølgaard, Adrian G. Zucco, Tibor V. Varga, Samir Bhatt
+
+    *Lancet Digital Health*
+
+2. Changed frequency of enterovirus hospitalisations after change of polio vaccination scheme: a nation-wide cohort study from Denmark
 
     Caroline Klint Johannesen, **Neil Scheidwasser**, Theis Lange, Tyra G. Krause, Thea K. Fischer
 
     *BMJ Public Health*
 
-2. Estimating the worst-case scenario for malaria parasite rate in sub-Saharan Africa
+3. Estimating the worst-case scenario for malaria parasite rate in sub-Saharan Africa
 
     Kaustubh Chakradeo, Alexandros Katsiferis, **Neil Scheidwasser**, Iwona Hawryluk, Katherine E. Battle, Swapnil Mishra, David L. Smith, Seth Flaxman, David A. Duchêne, Samir Bhatt
 
     *Accepted at Nature Communications*
 
-3. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
+4. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
 
     Jacob Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark P. Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik T. Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra G. Krause, Laust H. Mortensen, David A. Duchêne, Neil M. Ferguson, Samir Bhatt
 
     *Accepted at Nature Communications*
-
-4. Complex models, marginal benefits--a multi-centre development and validation study of early warning scores across 2·16 million patient admissions addressing intercurrent medical interventions
-
-    Alexandros Katsiferis, **Neil Scheidwasser**, Tri-Long Nguyen, Theis Lange, Mark P. Khurana, Pernille B. Nielsen, Kasper K. Iversen, Christian S. Meyhoff, Eske K. Aasvang, Jesper Mølgaard, Adrian G. Zucco, Tibor V. Varga, Samir Bhatt
-
-    *Accepted at Lancet Digital Health*
 
 5. Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections
 
