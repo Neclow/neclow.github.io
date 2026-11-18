@@ -31,37 +31,43 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
     *Lancet Digital Health*
 
-2. Changed frequency of enterovirus hospitalisations after change of polio vaccination scheme: a nation-wide cohort study from Denmark
+2. Ambient temperature and the global sewage resistome: shifts in clinically relevant bacterial genera
+
+    Mark P. Khurana, **Neil Scheidwasser**, Nina Pust, David A. Duchêne, Samir Bhatt
+
+    *JAC-Antimicrobial Resistance*
+
+3. Changed frequency of enterovirus hospitalisations after change of polio vaccination scheme: a nation-wide cohort study from Denmark
 
     Caroline Klint Johannesen, **Neil Scheidwasser**, Theis Lange, Tyra G. Krause, Thea K. Fischer
 
     *BMJ Public Health*
 
-3. Estimating the worst-case scenario for malaria parasite rate in sub-Saharan Africa
+4. Estimating the worst-case scenario for malaria parasite rate in sub-Saharan Africa
 
     Kaustubh Chakradeo, Alexandros Katsiferis, **Neil Scheidwasser**, Iwona Hawryluk, Katherine E. Battle, Swapnil Mishra, David L. Smith, Seth Flaxman, David A. Duchêne, Samir Bhatt
 
     *Accepted at Nature Communications*
 
-4. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
+5. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
 
     Jacob Curran-Sebastian, Christian Morgenstern, Jonas Juul, Mark P. Khurana, **Neil Scheidwasser**, Nicolas Banholzer, Alexandros Katsiferis, Frederik T. Møller, Danish COVID-19 Genome Consortium, Pikka Jokelainen, Jannik Fonager, Anders Hviid, Morten Rasmussen, Marc Stegger, Sune Lehmann, Tyra G. Krause, Laust H. Mortensen, David A. Duchêne, Neil M. Ferguson, Samir Bhatt
 
     *Accepted at Nature Communications*
 
-5. Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections
+6. Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections
 
     Mark P. Khurana, Alexandros Katsiferis, **Neil Scheidwasser**, Mathilde Marie Brünnich Sloth, Jacob Curran-Sebastian, Christian Morgenstern, Man-Hung Eric Tang, Jannik Fonager, Morten Rasmussen, Marc Stegger, Charles Whittaker, The Danish COVID-19 Genome Consortium (DCGC), Sune Lehmann, Laust H. Mortensen, Pikka Jokelainen, Moritz U G Kraemer, Neil M Ferguson, Mahan Ghafari, Tyra G. Krause, David A. Duchêne, Samir Bhatt
 
     *Nature Communications*
 
-6. Global approaches to infectious disease surveillance and modeling
+7. Global approaches to infectious disease surveillance and modeling
 
     Mark P. Khurana, Joseph L.-H. Tsui, Bernardo Gutierrez, Ayush Chopra, **Neil Scheidwasser**, Harrison B. H. Zhu, B., ..., & Moritz U. G. Kraemer
 
     *Nature Medicine*
 
-7. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
+8. SARS-CoV-2 reinfections and subsequent risk of hospital-diagnosed post-acute sequelae in Denmark (2020–2022): a nationwide cohort study
 
     Mark P. Khurana, Mathilde Marie Brünnich Sloth, **Neil Scheidwasser**, Jacob Curran-Sebastian, Christian Morgenstern, Nicolas Banholzer, David Thein, Laust H. Mortensen, Morten Rasmussen, Pikka Jokelainen, Frederik T. Møller, Marc Stegger, Tyra G. Krause, Ewan Cameron, David A. Duchêne, Alexandros Katsiferis, Samir Bhatt
 
