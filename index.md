@@ -47,7 +47,7 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
     Kaustubh Chakradeo, Alexandros Katsiferis, **Neil Scheidwasser**, Iwona Hawryluk, Katherine E. Battle, Swapnil Mishra, David L. Smith, Seth Flaxman, David A. Duchêne, Samir Bhatt
 
-    *Accepted at Nature Communications*
+    *Nature Communications*
 
 5. Transmission Networks and Intervention Effects From SARS-CoV-2 Genomic and Social Network Data in Denmark
 
