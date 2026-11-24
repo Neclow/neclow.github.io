@@ -193,6 +193,23 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 
     Matthew J. Penn, **Neil Scheidwasser**, Mark P. Khurana, Christl A. Donnelly, David A. Duchêne, Samir Bhatt
 
+## Teaching
+
+### University of Copenhagen
+
+As lecturer:
+2026-: Molecular Evolution and Phylogenomics (one lecture)
+2023-2024: Data visualisation and storytelling (PhD course; created the course)
+2023-: Ethics of AI (one lecture)
+
+### EPFL
+
+As student assistant:
+2021-2022: Information, Computation, Communication (CS-119)
+2021-2022: Applied data analysis (CS-401)
+2019-2021: Analysis III (MATH-203)
+2019-2021: Projects in Informatics (for SV) (CS-116)
+
 ## Resume
 
 [Download CV (PDF)](cv.pdf)
