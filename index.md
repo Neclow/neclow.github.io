@@ -216,7 +216,7 @@ As student assistant:
 
 ## Other interests
 
-Outside work, I enjoy running, padel, bouldering, and football. I first saw PSG play in 2007 (against Ajaccio), so I feel I've earned the right to enjoy watching them win these days.
+Outside work, I enjoy running, padel, bouldering, and football. I first saw PSG play in 2007 (against Ajaccio), so I feel I've earned the right to enjoy watching them win these days. Proud supporter of BK Frem in Denmark.
 
 I used to play Scrabble competitively at a high level (Under-18 World Champion in French in 2015, and in the world top 100 for five years). Now I channel that competitive itch into learning Norwegian Scrabble and finding chess opening variations to trick my friends.
 
