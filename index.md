@@ -198,9 +198,9 @@ Before coming to Copenhagen, I was an engineering intern at Logitech at the AI d
 ### University of Copenhagen
 
 As lecturer:
-2026-: Molecular Evolution and Phylogenomics (one lecture)
+2026-: Molecular Evolution and Phylogenomics (PhD course)
+2023-: Ethics of AI
 2023-2024: Data visualisation and storytelling (PhD course; created the course)
-2023-: Ethics of AI (one lecture)
 
 ### EPFL
 
